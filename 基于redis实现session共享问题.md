@@ -152,7 +152,7 @@
 
 
 
-![AEC986FE249FF10C6FAE15C78D5247DB(https://github.com/tsukikosama/hm-dianping/tree/master/redis/AEC986FE249FF10C6FAE15C78D5247DB.jpg)//**访问的时候判断是否有缓存**  
+![AEC986FE249FF10C6FAE15C78D5247DB](https://github.com/tsukikosama/hm-dianping/tree/master/redis/AEC986FE249FF10C6FAE15C78D5247DB.jpg)**访问的时候判断是否有缓存**  
 
  如果有缓存就直接获取 不需要查询数据库 ，如果没有缓存就去查询数据库 然后把查询到的数据添加进redis缓存中 方便下次访问
 
